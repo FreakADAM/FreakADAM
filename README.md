@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FreakADAM
-- 👀 I’m interested in Mary Jane and coding.
-- 🌱 I’m currently learning Unity updates.
-- 💞️ I’m looking to collaborate on grow logging software.
+- 👀 I’m interested in video games and coding.
+- 🌱 I’m currently learning Unity updates advanced C/C++/C# techniques.
+- 💞️ I’m looking to collaborate on any software projects.
 - 📫 How to reach me, adampeif(AT)gmail
 
 <!---
